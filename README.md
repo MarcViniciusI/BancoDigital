@@ -1,4 +1,4 @@
-# DIO Bank
+# DIO Bank 💸
 Um projeto prático de implementação de um sistema bancário simples em Java, desenvolvido para reforçar conhecimentos em Programação Orientada a Objetos (POO).
 
 ## Descrição do Projeto
